@@ -1,5 +1,6 @@
 # Verilog
-RTL codes
+- RTL codes
+- Use iverilog and gtkwave
 
 ## How to Run
 
