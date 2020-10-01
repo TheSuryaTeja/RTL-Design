@@ -15,13 +15,13 @@ Left-shift and Right-shift
    3-bit *"Sel"* to for operation selection
 
 ```
-sel  =  3’d0 	-> 	addition
-sel  =  3’d1 	-> 	subtraction	
+sel  =  3’d0 	-> 	Addition
+sel  =  3’d1 	-> 	Subtraction	
 sel  =  3’d2 	->	Multiplication
 sel  =  3’d3 	-> 	Division
 sel  =  3’d4 	-> 	Left shift of a by 1
 sel  =  3’d5 	-> 	Right shift of a by 1
-sel  =  other 	->	output is zero
+sel  =  other 	->	Output is zero
 
 ```
 * Output
