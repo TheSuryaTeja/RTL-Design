@@ -6,7 +6,7 @@ This is a **Verilog** code to write the data into bram and add it serially while
 
 * **Block memory generator IP** is configured for 8-bit write/read width and 16 write/read depth.
 
-* **adder/ subtractor IP** is used to add the output of BRAM
+* **adder/ subtractor IP** is used to add the output of BRAM serially.
 
 ## Results
 
