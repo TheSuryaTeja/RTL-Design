@@ -18,15 +18,15 @@ This is a **Verilog** code for 4-bit asynchronous counter using T Flip-Flop
 
 >Simulation
 
-![](https://github.com/TheSuryaTeja/Verilog/blob/master/Asynchronous_counter/simulation.PNG?raw=true)
+![](https://github.com/TheSuryaTeja/Verilog/blob/master/Images/Asynchronous_counter/simulation.PNG?raw=true)
 
 >Schematic
 
-![](https://github.com/TheSuryaTeja/Verilog/blob/master/Asynchronous_counter/schematic.PNG?raw=true)
+![](https://github.com/TheSuryaTeja/Verilog/blob/master/Images/Asynchronous_counter/schematic.PNG?raw=true)
 
 >Post-Synthesis
 
-![](https://github.com/TheSuryaTeja/Verilog/blob/master/Asynchronous_counter/post_synth.PNG?raw=true)
+![](https://github.com/TheSuryaTeja/Verilog/blob/master/Images/Asynchronous_counter/post_synth.PNG?raw=true)
 
 
 ## Author
