@@ -8,7 +8,16 @@ parameter sign = 7, final_sign = 8;
 
 reg [6:0] temp_a,temp_b;
 
+/* 
 
+Considering all 4 cases like
+
+(+a) operator (+b)
+(-a) operator (+b)
+(-a) operator (+b)
+(-a) operator (-b)
+
+*/
 
 always @(*) 
 begin
