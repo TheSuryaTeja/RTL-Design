@@ -4,7 +4,7 @@ This is a **Verilog** code for 4-bit asynchronous counter using T Flip-Flop
 
 ## Design
 
-![](https://github.com/TheSuryaTeja/Verilog/blob/master/Asynchronous_counter/Counter.jpg?raw=true)
+![](https://github.com/TheSuryaTeja/Verilog/blob/master/4-bit_Asynchronous_counter/Counter.jpg?raw=true)
 
 * This is an example picture of asynchronous counter.
 * It is called asynchronous because all Flip Flops don’t get same clock.
@@ -18,6 +18,7 @@ This is a **Verilog** code for 4-bit asynchronous counter using T Flip-Flop
 
 >Simulation
 
+<<<<<<< HEAD
 ![](https://github.com/TheSuryaTeja/Verilog/blob/master/Images/Asynchronous_counter/simulation.PNG?raw=true)
 
 >Schematic
@@ -27,6 +28,17 @@ This is a **Verilog** code for 4-bit asynchronous counter using T Flip-Flop
 >Post-Synthesis
 
 ![](https://github.com/TheSuryaTeja/Verilog/blob/master/Images/Asynchronous_counter/post_synth.PNG?raw=true)
+=======
+![](https://github.com/TheSuryaTeja/Verilog/blob/master/4-bit_Asynchronous_counter/simulation.PNG?raw=true)
+
+>Schematic
+
+![](https://github.com/TheSuryaTeja/Verilog/blob/master/4-bit_Asynchronous_counter/schematic.PNG?raw=true)
+
+>Post-Synthesis
+
+![](https://github.com/TheSuryaTeja/Verilog/blob/master/4-bit_Asynchronous_counter/post_synth.PNG?raw=true)
+>>>>>>> c0a40ba10f7469b0687169c8ad758f4b80a69ae7
 
 
 ## Author
