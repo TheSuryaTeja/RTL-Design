@@ -1,6 +1,6 @@
-# 4-bit Magnitude Comparator
+# LIFO Buffer System
 
-This is a structural **Verilog** code 4-bit magnitude comparator.
+This is a **Verilog** code for LIFO buffer system which can store 5 numbers of 4bit each
 
 ## Design
 
