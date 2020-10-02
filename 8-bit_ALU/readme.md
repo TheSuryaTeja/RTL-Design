@@ -35,7 +35,7 @@ sel  =  other 	->	Output is zero
 
 ## Results
 
-![](https://github.com/TheSuryaTeja/Verilog/blob/master/ALU/Simulation_waveforms/ALU_Simulation.PNG?raw=true)
+![](https://github.com/TheSuryaTeja/RTL-Design/blob/master/8-bit_ALU/Simulation_waveforms/ALU_Simulation.PNG?raw=true)
 
 
 ## Author
