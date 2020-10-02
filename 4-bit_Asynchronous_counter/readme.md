@@ -10,9 +10,9 @@ This is a **Verilog** code for 4-bit asynchronous counter using T Flip-Flop
 * It is called asynchronous because all Flip Flops don’t get same clock.
 * The output of T flip flop toggles for every positive edge of clock when t is high. 
   Hence it can be used in counter.
-* T flip-flop is instantiated 4 times to make the 4-bit counter.
-* As the counter is 4-bit, the simulation can be seen counting from 0 to 15 and it wraps around.
-* We can reverse the counter (up or down) by inverting the triggering clock edge (posedge clk to negedge clk) or also by making qbar as clock for following flip flops.
+* T flip-flop is instantiated 4 times to design the 4-bit counter.
+* As the counter is 4-bit, the simulation can be seen counting from 0 to 15 and wraping around.
+* Counter can be reversed (up or down) by inverting the triggering clock edge (posedge clk to negedge clk) or also by making qbar as clock for following flip flops.
 
 ## Results
 
