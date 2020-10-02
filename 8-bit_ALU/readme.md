@@ -1,6 +1,6 @@
 # 8-bit Signed ALU
 
-This is a behavioural verilog code for 8-bit signed ALU
+This is a behavioural **Verilog** code for 8-bit signed ALU
 
 ## ALU Design
 
