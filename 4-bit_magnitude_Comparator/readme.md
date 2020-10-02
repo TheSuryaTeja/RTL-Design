@@ -10,15 +10,15 @@ This is a structural **Verilog** code 4-bit magnitude comparator.
 
 >Simulation
 
-![](https://github.com/TheSuryaTeja/Verilog/blob/master/Comparator/Images/simulation.PNG?raw=true)
+![](https://github.com/TheSuryaTeja/RTL-Design/blob/master/4-bit_magnitude_Comparator/Images/simulation.PNG?raw=true)
 
 >Schematic
 
-![](https://github.com/TheSuryaTeja/Verilog/blob/master/Comparator/Images/schematic.PNG?raw=true)
+![](https://github.com/TheSuryaTeja/RTL-Design/blob/master/4-bit_magnitude_Comparator/Images/schematic.PNG?raw=true)
 
 >Post-Synthesis
 
-![](https://github.com/TheSuryaTeja/Verilog/blob/master/Comparator/Images/post-synth.PNG?raw=true)
+![](https://github.com/TheSuryaTeja/RTL-Design/blob/master/4-bit_magnitude_Comparator/Images/post-synth.PNG?raw=true)
 
 
 ## Author
