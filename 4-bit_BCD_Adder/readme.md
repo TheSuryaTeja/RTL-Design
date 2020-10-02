@@ -11,15 +11,15 @@ This is a behavioral **Verilog** code for 4-bit BCD Adder
 
 >Simulation
 
-![](https://github.com/TheSuryaTeja/Verilog/blob/master/BCD_adder/Images/simulation.PNG?raw=true)
+![](https://github.com/TheSuryaTeja/RTL-Design/blob/master/4-bit_BCD_Adder/Images/simulation.PNG?raw=true)
 
 >Schematic
 
-![](https://github.com/TheSuryaTeja/Verilog/blob/master/BCD_adder/Images/schematic.PNG?raw=true)
+![](https://github.com/TheSuryaTeja/RTL-Design/blob/master/4-bit_BCD_Adder/Images/schematic.PNG?raw=true)
 
 >Post-Synthesis
 
-![](https://github.com/TheSuryaTeja/Verilog/blob/master/BCD_adder/Images/post-synth.PNG?raw=true)
+![](https://github.com/TheSuryaTeja/RTL-Design/blob/master/4-bit_BCD_Adder/Images/post-synth.PNG?raw=true)
 
 
 ## Author
