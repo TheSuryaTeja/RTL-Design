@@ -1,6 +1,6 @@
 # RTL codes in Verilog
 
-* Simulated and synthesized in Xilinx Vivado
+* Simulated and synthesized using Xilinx Vivado
 
 # List
 
