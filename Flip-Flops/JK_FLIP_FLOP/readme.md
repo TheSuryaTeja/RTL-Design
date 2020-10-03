@@ -6,7 +6,7 @@ This is a behavioral **Verilog** code for JK Flip-Flop
 
 ![](https://github.com/TheSuryaTeja/RTL-Design/blob/master/Flip-Flops/JK_FLIP_FLOP/jk_flipflop.jpg?raw=true)
 
-
+## Truth Table
 
 | clk | reset | J | K |    Q( t )   |   Q( t )'   |
 |:---:|:-----:|:-:|:-:|:-----------:|:-----------:|
