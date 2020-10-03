@@ -8,7 +8,7 @@ This is a behavioral **Verilog** code for D Flip-Flop
 
 ## Truth Table
 
-| clk | reset | D | Q(t) | Q(t') |
+| clk | reset | D | Q(t) | Q(t)' |
 |:---:|:-----:|:-:|:----:|:-----:|
 |  1  |   1   | x |   0  |   1   |
 |  1  |   0   | 0 |   0  |   1   |
