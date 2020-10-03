@@ -2,7 +2,7 @@
 
 This is a behavioral **Verilog** code for JK Flip-Flop
 
-## Concept
+## Circuit
 
 ![](https://github.com/TheSuryaTeja/RTL-Design/blob/master/Flip-Flops/JK_FLIP_FLOP/jk_flipflop.jpg?raw=true)
 
