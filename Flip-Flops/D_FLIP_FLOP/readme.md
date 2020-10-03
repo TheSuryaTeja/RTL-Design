@@ -9,7 +9,7 @@ This is a behavioral **Verilog** code for D Flip-Flop
 <center>
 
 |   D   | Q(t) | Q(t') |
-|:-----:|:----:|:-----:|
+| ----- |:----:| -----:|
 |   0   |   0  |   1   |
 |   1   |   1  |   0   |
 | Reset |   x  |   0   |
